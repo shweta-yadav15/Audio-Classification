@@ -34,4 +34,4 @@ accuracy is 97% and test data is 58%. Here also we can observe overfitting but b
 --- 
 
 ## Tools Used
-Keras API is used for major part of the project on top of TensorFlow along with few other libraries like NumPy, Pandas, Scikit-Learn. 
+Keras API is used for major part of the project on top of TensorFlow along with few other libraries like NumPy, Pandas, Scikit-Learn and Librosa. Librosa is a python package widely used for audio and music processing. It allows to load audio in the notebook as a NumPy array for analysis and manipulation. Librosa’s load() function is used for much of the preprocessing. The advantage of using it is that it converts the sampling rate to 22.05kHz by default as well as normalize the data so the bit-depth values are in range [-1,1].

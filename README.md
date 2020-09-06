@@ -22,7 +22,7 @@ Link to dataset: https://github.com/karolpiczak/ESC-50
 
 1. Model with raw waveforms and 1D convolutions
 2. Model with relevant features extracted from audio data
-3. . Model build with transfer learning from images to audio data 
+3. Model build with transfer learning from images to audio data 
 
 ---
 ## Results
